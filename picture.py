@@ -1,11 +1,5 @@
-#Komplett bild
-#Sätt ihop alla ovanstående funktioner till en bild. Bilden ska innehålla minst en av varje.
-#Ett minimalt exempel är att dela in bilden i 2 rektanglar för himmel och gräsig mark,
-#rita en gul sol, ett hus med triangeltak, en ram som ett fönster, en rektangel som en dörr,
-#en gran på tomten. Om du vill göra en mer avancerad bild så är ska vi inte begränsa din
-#kreativitet, men se till att du skulle våga visa den för en arbetsgivar
 
-# Impoprtera
+# Importera
 import math
 from tkinter import *
 import itertools as it
